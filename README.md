@@ -5,43 +5,31 @@ internet age
 
 1. Control of user data access
 
-    The data that the user stores should be under control of this
-    person. Users should be able to decide whom to grant
-    direct access to theire data and under which permissions.
+	Data created by user should be kept under their sole control. Only
+	the user is able to publish or not some data. And the only way to
+	achieve this goal is to use strong cryptographic routines for
+	storing those data.
 
 2. Know where the data is stored
 
-    Users should be able to know: where their data is physically
-    stored, how long, in what country, and what laws apply. It is
-    recommended that all users have their own server in the long
-    term.
+	Users should know what entities can access their personnal data,
+	and what laws applies to it. With so much virtualisation and
+	decentralisation, it might be hard to acheive, so each user should
+	keep the data they want to publish on a machine they can control.
 
-3. Right to leave
+3. Right to leave a platform
 
-    Users should always be able to extract and delete their
-    data at any time without being locked in to a specific
-    service.
+	Users' data can't be locked in one platform. They must be able to
+	move to a different platform, and to recover all the private data
+	they have stored in an machineanduser understandable format.
 
     For this, open standards for formats and protocoles are
-    a necessity.
+    a necessity, and to warranty the interoperability only free
+	software should be used server side.
 
-5. Protect the data from loss
+4. Protect the data 
 
-    Everybody should be able to protect their data against
-    surveillance and to federate their data for backups to prevent
-    data loss or for any other reason.
-
-    [?: should it be there?]
-
-7.  Server software distribution
-
-    Server software should be distributed as Free Software so that
-    the source code can be inspected, replicated and modified.
-
-    [?: Let's explain here exactly why Free Software is important
-    to build a true distributed Internet.]
-
-[Note: I think we should have less points. Ideally 4. The details
-should then be laid out in explanations below the points. A little
-bit like http://www.gnu.org/philosophy/free-sw.en.html ]
-
+	User's data are part of the user and it must be protected from
+	seizure and spying. Federating the data and encryption must be
+	allowed to grant backup insuranceand protection from
+	eavesdropping.
